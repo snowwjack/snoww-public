@@ -1,0 +1,20 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "schedule.xdv" "schedule.pdf" "schedule" 0
+  "schedule.xdv" 1563400515 10168 78dfca553a31c1b78ae899acfa01db01 "xelatex"
+  (generated)
+  "schedule.pdf"
+["xelatex"] 1563400614 "schedule.tex" "schedule.xdv" "schedule" 1563400614
+  "c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1525680516 1458 43ab4710dc82f3edeabecd0d099626b2 ""
+  "c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1537218676 1300 96620a7d94bc0ceb261d968770ce8315 ""
+  "c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty" 1537218676 6797 90b7f83b0ad46826bc16058b1e3d48df ""
+  "c:/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1537218434 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo" 1537218434 8305 4e2a90a380a17c0472dd191689c67cbc ""
+  "c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty" 1537218271 41645 0653033a985e06c69a2a9cea9a95e31a ""
+  "c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty" 1525680354 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
+  "c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1537219324 2483677 e779bd77fdff57f49df8b5d92c569398 ""
+  "pdfcrop.sty" 0 -1 0 ""
+  "schedule.aux" 1563400614 9 a94a2480d3289e625eea47cd1b285758 ""
+  "schedule.tex" 1563400611 1115 c4df916049e4cbf2f0bc9f3f717e2b49 ""
+  (generated)
+  "schedule.log"
+  "schedule.xdv"

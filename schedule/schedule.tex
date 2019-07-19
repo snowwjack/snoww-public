@@ -1,0 +1,44 @@
+\documentclass[12pt]{article}
+
+% PAGE FORMATTING
+	\usepackage[margin=1in]{geometry}
+	\usepackage{pdfcrop}
+
+% FONT SETTINGS AND SYMBOL PACKAGES
+	\usepackage{ulem}
+	\usepackage{fontspec}
+	\usepackage{xunicode}
+	\usepackage{xltxtra}
+	\usepackage[HTML]{xcolor}
+	\definecolor{cblue}{HTML}{0C6A93}
+	\setmainfont{Ubuntu-R.ttf}[%
+		Mapping = tex-text,
+		Path = C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/,
+		Color = cblue,
+		BoldFont = Ubuntu-B,
+		ItalicFont = Ubuntu-RI,
+		BoldItalicFont = Ubuntu-BI,
+		SlantedFont = Ubuntu-RI,
+		BoldSlantedFont = Ubuntu-BI,
+		UprightFont = Ubuntu-R,
+	]
+
+	\newcommand\cblueuline{
+		\bgroup\markoverwith{\textcolor{cblue}{\rule[-0.5ex]{2pt}{1pt}}}\ULon}
+
+\begin{document}
+
+	\pagenumbering{gobble}
+
+	\begin{center}
+		\cblueuline{schedule week of 7/14 (all times LA time)}\\\vspace{0.5em}
+		\textbf{sun}: off cam\\
+		\textbf{mon}: around 1:30--4\\
+		\textbf{tues}: off cam\\
+		\textbf{wed}: off cam\\
+		\textbf{thurs}: around 10am--afternoon\\
+		\textbf{fri}: around 10am--afternoon\\
+		\textbf{sat}: off cam
+	\end{center}
+
+\end{document}
