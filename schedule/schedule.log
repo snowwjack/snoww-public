@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.5.7)  26 JUL 2019 10:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.5.7)  26 JUL 2019 18:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -23,17 +23,22 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/03/24 v5.7 Page Geometry
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-) (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -48,7 +53,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-) (c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+)
+(c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box26
 \UL@hyphenbox=\box27
 \UL@skip=\skip43
@@ -59,9 +65,13 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \ULC@box=\box28
 Package: ulem 2012/05/18
 \ULdepth=\dimen113
-) (c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty (c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+)
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2018-04-30 L3 programming layer (loader) 
- (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018-04-30 L3 programming layer (code)
 \c_max_int=\count92
 \l_tmpa_int=\count93
@@ -199,7 +209,8 @@ Package: expl3 2018-04-30 L3 programming layer (code)
 \l__coffin_top_corner_dim=\dimen143
 \l__coffin_scaled_total_height_dim=\dimen144
 \l__coffin_scaled_width_dim=\dimen145
-) (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+)
+(c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2018-04-30 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count168
 ))
@@ -211,8 +222,10 @@ Package: xparse 2018-04-30 L3 Experimental document command parser
 \l__xparse_v_nesting_int=\count173
 )
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
- (c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+X
 \l__fontspec_script_int=\count174
 \l__fontspec_language_int=\count175
 \l__fontspec_strnum_int=\count176
@@ -224,9 +237,11 @@ Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen146
 \l__fontspec_tmpb_dim=\dimen147
 \l__fontspec_tmpc_dim=\dimen148
- (c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
- (c:/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 ))
@@ -400,7 +415,8 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 . 
 . Defining command \UndeclareComposite with sig. 'mm' on line 3706.
 .................................................
- (c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+
+(c:/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
 LaTeX Info: Redefining \itshape on input line 3891.
 LaTeX Info: Redefining \slshape on input line 3896.
 LaTeX Info: Redefining \scshape on input line 3901.
@@ -418,36 +434,48 @@ LaTeX Info: Redefining \- on input line 4015.
 . 
 . Defining command \liningnums with sig. 'm' on line 4114.
 .................................................
-)) (c:/texlive/2018/texmf-dist/tex/xelatex/xunicode/xunicode.sty
-File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
- (c:/texlive/2018/texmf-dist/tex/latex/tipa/t3enc.def
+))
+(c:/texlive/2018/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
+other characters in Unicode lower plane
+
+(c:/texlive/2018/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 )
 \tipaTiiicode=\count182
 \tipasavetokens=\toks17
 \tipachecktokens=\toks18
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 99.
- (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-)) (c:/texlive/2018/texmf-dist/tex/latex/xltxtra/xltxtra.sty
+))
+(c:/texlive/2018/texmf-dist/tex/latex/xltxtra/xltxtra.sty
 Package: xltxtra 2016/01/21 v0.6 Improvements for the "XeLaTeX" format
- (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-) (c:/texlive/2018/texmf-dist/tex/latex/realscripts/realscripts.sty
-Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
+)
+(c:/texlive/2018/texmf-dist/tex/latex/realscripts/realscripts.sty
+Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscrip
+ts
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -489,7 +517,8 @@ Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscript
 . Defining command \textsupersubscript with sig. 'sO{l}mm' on line 143.
 .................................................
 \subsupersep=\dimen151
-) (c:/texlive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
+)
+(c:/texlive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
 \xl@everylogo=\toks19
 \xl@@everylogo=\toks20
@@ -501,9 +530,11 @@ LaTeX Info: Redefining \LaTeXe on input line 219.
 \l__xetex_show_hyphens_temp_box=\box45
 \l__xetex_show_hyphens_final_box=\box46
 \g__xetex_show_hyphens_word_box=\box47
-) (c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
@@ -529,27 +560,33 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-R.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-R.ttf]/OT:sc
+ript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-B.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-B.ttf]/OT:sc
+ript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-RI.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-RI.ttf]/OT:s
+cript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'slanted' (m/sl) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-RI.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-RI.ttf]/OT:s
+cript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'slanted small caps'  (m/slsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-BI.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-BI.ttf]/OT:s
+cript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 . - 'bold slanted' (bx/sl) with NFSS spec.:
-. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-BI.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
+. <->"[C:/Users/jakew/AppData/Local/Microsoft/Windows/Fonts/Ubuntu-BI.ttf]/OT:s
+cript=latn;language=DFLT;mapping=tex-text;color=0C6A93FF
 . ;"
 . - 'bold slanted small caps'  (bx/slsc) with NFSS spec.: 
 .................................................
@@ -573,7 +610,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 28.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 28.
- (c:/texlive/2018/texmf-dist/tex/latex/tipa/t3cmr.fd
+(c:/texlive/2018/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 28.
@@ -647,25 +684,32 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Ubuntu-R.ttf(0)/m/n on input line 28.
+(Font)                  OT1/cmr/m/n --> TU/Ubuntu-R.ttf(0)/m/n on input line 28
+.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Ubuntu-R.ttf(0)/m/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> TU/Ubuntu-R.ttf(0)/m/n on input line 2
+8.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Ubuntu-R.ttf(0)/m/n --> TU/Ubuntu-R.ttf(0)/m/n on input line 28.
+(Font)                  TU/Ubuntu-R.ttf(0)/m/n --> TU/Ubuntu-R.ttf(0)/m/n on in
+put line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Ubuntu-R.ttf(0)/m/it on input line 28.
+(Font)                  OT1/cmr/m/it --> TU/Ubuntu-R.ttf(0)/m/it on input line 
+28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Ubuntu-R.ttf(0)/bx/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> TU/Ubuntu-R.ttf(0)/bx/n on input line 
+28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Ubuntu-R.ttf(0)/m/n --> TU/Ubuntu-R.ttf(0)/bx/n on input line 28.
+(Font)                  TU/Ubuntu-R.ttf(0)/m/n --> TU/Ubuntu-R.ttf(0)/bx/n on i
+nput line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Ubuntu-R.ttf(0)/bx/it on input line 28.
+(Font)                  OT1/cmr/bx/it --> TU/Ubuntu-R.ttf(0)/bx/it on input lin
+e 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -682,4 +726,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  39i,5n,67p,10414b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on schedule.xdv (1 page, 11044 bytes).
+Output written on schedule.xdv (1 page, 11236 bytes).

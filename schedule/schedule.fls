@@ -1,4 +1,4 @@
-PWD f:/Media/snoww-public/schedule
+PWD F:/Media/snoww-public/schedule
 INPUT c:/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
 INPUT schedule.tex
 OUTPUT schedule.log
